@@ -1,6 +1,6 @@
 Git is a version control system.
-µÄ·½Ê½µÄ·¢Éú
+çš„æ–¹å¼çš„å‘ç”Ÿ
 Git is free software.
-¸½½üµÄ¼¸¼Ò
+é™„è¿‘çš„å‡ å®¶
 git@github.com:wangning8956/LearningNotes.git
-teteeee
+teteeee12345
